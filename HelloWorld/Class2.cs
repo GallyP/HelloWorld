@@ -6,6 +6,6 @@
         static void Main()
         {
             //Отображение сообщения в консольном окне:
-            Console.WriteLine("Изучаем git000");
+            Console.WriteLine("Изучаем git111");
         }
     }
